@@ -38,7 +38,7 @@ cd LEET-CODE-SQL-50
 - Copy and paste the SQL query from the solutions/ folder.
 - Execute the query to test the solution.
 
-### ** Practice & Modify Queries**
+### **3️⃣ Practice & Modify Queries**
 - Try solving the problems **before checking the solutions.**
 - Modify queries and experiment with different SQL techniques.
 
